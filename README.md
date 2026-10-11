@@ -8,8 +8,8 @@ Bilingual public-record investigative report by **Ninomae Tsukumo**.
 ## Permanent archive / 恒久アーカイブ
 
 **Version:** v1.0  
-**Archive:** Zenodo (GitHub Release integration planned)  
-**DOI:** Not yet assigned / 未付与
+**Archive:** Zenodo  
+**DOI:** [10.5281/zenodo.23293255](https://doi.org/10.5281/zenodo.23293255) / DOI登録済み
 
 ## Final reports / 最終レポート
 
