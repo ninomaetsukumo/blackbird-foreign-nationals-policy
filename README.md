@@ -11,6 +11,10 @@ Bilingual public-record investigative report by **Ninomae Tsukumo**.
 **Archive:** Zenodo  
 **DOI:** [10.5281/zenodo.23293255](https://doi.org/10.5281/zenodo.23293255) / DOI登録済み
 
+## Case-wide visual network / 関係図
+
+[Interactive JP-04 evidence network / JP-04関係図](https://ninomaetsukumo.github.io/reports/JAPAN-JP-04/EVIDENCE_NETWORK.html) — policy and economic relationships with finding references, distinctions and evidence gaps; no claim of causal proof.
+
 ## Final reports / 最終レポート
 
 - [English — Final investigative report](REPORT.md)
