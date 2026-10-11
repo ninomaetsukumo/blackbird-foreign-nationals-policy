@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the archived version of this bilingual investigative report."
+title: "JAPAN — JP-04 — Foreign Nationals in Japan: Policy Justifications, Economic Exposure and Evidence Boundaries"
+authors:
+  - family-names: "Tsukumo"
+    given-names: "Ninomae"
+version: "1.0"
+date-released: "2026-10-11"
+repository-code: "https://github.com/ninomaetsukumo/blackbird-foreign-nationals-policy"
+url: "https://ninomaetsukumo.github.io/"
+keywords:
+  - OSINT
+  - Japan
+  - immigration policy
+  - foreign nationals
+  - public records
+  - JESTA
+abstract: "A bilingual, source-based investigation of Japanese foreign-national policy measures, their economic exposure and evidentiary limitations."
